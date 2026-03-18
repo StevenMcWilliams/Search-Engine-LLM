@@ -18,7 +18,7 @@ duckdb
 pandas
 openai
 langchain-groq
-duckduckgo-search
+duckduckgo_search==5.3.1b1
 pymupdf
 arxiv
 wikipedia
@@ -30,3 +30,17 @@ unstructured
 pytube
 numexpr
 huggingface_hub
+langchain-classic
+fastapi
+uvicorn
+langserve
+sse-starlette
+langchain_huggingface
+bs4
+streamlit
+ddgs
+cassio
+datasets
+tiktoken
+PyPDF2
+gradio
